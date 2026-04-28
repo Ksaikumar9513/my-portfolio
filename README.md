@@ -2,7 +2,7 @@
 
 This is my personal portfolio website developed using HTML, CSS, and JavaScript. It showcases my skills, projects, education, and experience as a web developer.
 
-🔗 **Live Demo:** https://k-sai-portfolio.netlify.app
+🔗 **Live Demo:** https://ksaikumar9513.github.io/my-portfolio/
 
 ---
 
