@@ -1,1 +1,1 @@
-Live Demo: https://enchanting-ganache-e525d2.netlify.app/
+Live Demo: https://k-sai-portfolio.netlify.app
